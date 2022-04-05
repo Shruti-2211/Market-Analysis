@@ -149,3 +149,4 @@ plot(test.forecast, main = 'Arima Forecast for Amazon Stock')
 accuracy(prediction, difference.log.price.testing)
 
 #Lower the value of Root mean square error better is the accuracy of the model.
+
